@@ -1,5 +1,4 @@
 # My-first-HTML
-<!doctype html>
 <html>
     <head>
         <title>Nsec</title>
